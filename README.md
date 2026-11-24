@@ -17,9 +17,9 @@ Join make.fun with my referral link: https://make.fun/r/3t7y0djc
 
 ## The entry
 
-> My AirPods case swears both buds are at 100%, then the left one dies mid-sentence on every call, like it clocked out early and left its twin to finish the shift.
+> My printer flawlessly prints test pages, alignment sheets and low-ink warnings, then stares at my one actual document like I just asked it to defuse a bomb.
 
-161 characters. One named daily gadget (AirPods), one concrete gripe (the case lies about 100% while the left bud dies mid-call), and a fresh comparison — the bud clocking out early and leaving its twin to finish the shift — instead of the usual battery complaint.
+156 characters. One named daily gadget (the printer), three concrete behaviours in one line (test pages, alignment sheets and low-ink warnings all print perfectly — the one real document does not), and a fresh comparison: the printer treating a print job like a bomb to defuse. This is the round-2 revision; the round-1 entry (an AirPods line) finished 154 of 3,031 — see CANDIDATES.md for the scoring and the R2 revision notes.
 
 
 ## How it works
