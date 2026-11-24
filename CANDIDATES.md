@@ -31,3 +31,7 @@ v1 (AirPods case, 161 kar) R1: rank 154/3031, skor 649142. Kandidat v2 WAJIB ang
 
 ## Pilihan v2: Kandidat A (printer)
 Alasan: total tertinggi bersama, angle paling segar di antara yang seri, tiga detail perilaku konkret dalam satu baris, punch terakhir ("defuse a bomb") menaikkan tawa bacaan pertama. Panjang dihitung persis saat verifikasi main.py (target 120–180 kar, gate 1–200).
+
+## R2 revision notes
+
+v1, the AirPods-case line, finished R1 at rank 154 of 3,031. For the R2 revision, v2 switches to the printer roast (Candidate A above): it tied for the highest candidate score at 23/25, and among the tied candidates its angle — flawless on every practice sheet, helpless on the one real document — was judged the freshest, since the Bluetooth-speaker pairing joke (Candidate B, also 23/25) is already a fairly common bit. Candidate A also packs three concrete, real printer behaviours into a single line — test pages, alignment sheets, and low-ink warnings — and ends on the "defuse a bomb" punch, which lifts the first-read laugh. The new line is 156 characters, and `main.py` is deterministic: it writes the same constant text on every run, so repeated runs produce byte-identical output.
